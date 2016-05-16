@@ -1,1 +1,2 @@
-hello world hai
+hello world 
+how to remove this file
